@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122779453231",
+    "project_id": "windy-tiger-296219",
+    "storage_bucket": "windy-tiger-296219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122779453231:android:269e7d26bc3afa618f03da",
+        "android_client_info": {
+          "package_name": "com.example.irexnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122779453231-9ugoppcea1m7hjcgp0q7if0eogl9sc1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.irexnet",
+            "certificate_hash": "208ad5b0e1d9affc8ec1ad9ab141bb0081042741"
+          }
+        },
+        {
+          "client_id": "122779453231-cc6orbdrai0rgpp0imer2vhqgog65nsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBSlicgx2S7HKxB-JTmksNBS5Rv6Q8O-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122779453231-cc6orbdrai0rgpp0imer2vhqgog65nsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
